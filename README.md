@@ -16,7 +16,7 @@ titles font.
 The main implementation of this buttons you can see in spotify and calm apps.
 
 
-<img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_1.png?raw=true" width="350" high="450">
+<img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_1.png?raw=true" width="400" high="450">
 <img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_2.png?raw=true" width="300" high="450">
 <img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_3.png?raw=true" width="300" high="450">
 
