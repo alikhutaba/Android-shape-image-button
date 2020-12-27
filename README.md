@@ -34,7 +34,21 @@ Step 2. Add the dependency:
 ```
 ## Usage
 
-###### StepProgress Constructor:
+
+```xml
+
+    <com.example.squareimagebutton.SquareImageButton
+        android:id="@+id/squareimagebutton1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </com.example.squareimagebutton.SquareImageButton>
+
+
 ```java
 
         SquareImageButton squareImageButton1;
