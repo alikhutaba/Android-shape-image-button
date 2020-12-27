@@ -10,8 +10,8 @@ If the user gives a high score, he will be transferred to the Google store. If h
 
 
 <img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_1.png?raw=true" width="300" high="450">
-<img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_2.png?raw=true">
-<img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_3.png?raw=true">
+<img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_2.png?raw=true" width="300" high="450">
+<img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_3.png?raw=true" width="300" high="450">
 
 
 ## Setup
