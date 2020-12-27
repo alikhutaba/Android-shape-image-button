@@ -6,9 +6,14 @@
 [![](https://jitpack.io/v/alikhutaba/Android-shape-image-button.svg)](https://jitpack.io/#alikhutaba/Android-shape-image-button)
 
 
-A library for simple implementation of smart ranking.
-The user will see a dialog every x time.
-If the user gives a high score, he will be transferred to the Google store. If he gives a low score, he will only receive a thank you toast message.
+A library for simple implementation of buttons with rounder corners images with the main title and subtitle.
+you can load your images and title text to the button, with many options to change :
+titles color text.
+titles background-color.
+titles text size.
+titles font.
+
+The main implementation of this buttons you can see in spotify and calm apps.
 
 
 <img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_1.png?raw=true" width="300" high="450">
