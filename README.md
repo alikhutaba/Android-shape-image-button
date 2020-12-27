@@ -47,7 +47,7 @@ Step 2. Add the dependency:
         app:layout_constraintTop_toTopOf="parent">
 
     </com.example.squareimagebutton.SquareImageButton>
-
+```xml
 
 ```java
 
@@ -76,3 +76,4 @@ Step 2. Add the dependency:
                 // clickable image button....
             }
         });
+```java
