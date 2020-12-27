@@ -2,11 +2,8 @@
 
 [![](https://jitpack.io/v/alikhutaba/Android-shape-image-button.svg)](https://jitpack.io/#alikhutaba/Android-shape-image-button)
 
-	https://img.shields.io/github/issues/alikhutaba/Android-shape-image-button
-GitHub forks:	GitHub forks badge	https://img.shields.io/github/forks/alikhutaba/Android-shape-image-button
-GitHub stars:	GitHub stars badge	https://img.shields.io/github/stars/alikhutaba/Android-shape-image-button
-GitHub license:	GitHub license badge	https://img.shields.io/github/license/alikhutaba/Android-shape-image-button
-Twitter:	Twitter badge	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Falikhutaba%2FAndroid-shape-image-button
+
+https://img.shields.io/github/issues/alikhutaba/Android-shape-image-button
 
 
 A library for simple implementation of smart ranking.
