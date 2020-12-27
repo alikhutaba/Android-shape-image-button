@@ -9,7 +9,7 @@ The user will see a dialog every x time.
 If the user gives a high score, he will be transferred to the Google store. If he gives a low score, he will only receive a thank you toast message.
 
 
-<img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_1.png?raw=true" width="120" high="120">
+<img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_1.png?raw=true" width="300" high="450">
 <img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_2.png?raw=true">
 <img src="https://github.com/alikhutaba/Android-shape-image-button/blob/master/app/src/main/res/drawable/Screenshot_3.png?raw=true">
 
